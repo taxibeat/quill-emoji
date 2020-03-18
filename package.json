@@ -1,5 +1,5 @@
 {
-  "name": "@thebeatapp/quill-emoji",
+  "name": "@thebeatapp/beat-quill-emoji",
   "version": "0.1.8",
   "private": true,
   "description": "Quill Extension for Emoji Selection",
