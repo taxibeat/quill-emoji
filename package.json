@@ -1,6 +1,6 @@
 {
   "name": "@thebeatapp/beat-quill-emoji",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "description": "Quill Extension for Emoji Selection",
   "main": "dist/quill-emoji.js",
   "devDependencies": {
