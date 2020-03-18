@@ -1,7 +1,6 @@
 {
   "name": "@thebeatapp/beat-quill-emoji",
   "version": "0.1.8",
-  "private": true,
   "description": "Quill Extension for Emoji Selection",
   "main": "dist/quill-emoji.js",
   "devDependencies": {
@@ -34,7 +33,6 @@
     "quill",
     "editor"
   ],
-  "author": "contentco",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/taxibeat/quill-emoji/issues"
